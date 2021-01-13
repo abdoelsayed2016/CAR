@@ -1,1 +1,2 @@
-# Character Error rate (CAR) method 
+# Character Error rate (CER) method 
+
