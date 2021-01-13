@@ -1,1 +1,1 @@
-# Character Accuracy rate (CAR) method 
+# Character Error rate (CAR) method 
